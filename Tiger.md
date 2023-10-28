@@ -1,0 +1,6 @@
+# Tiger
+
+![Tiger](https://upload.wikimedia.org/wikipedia/commons/4/41/Siberischer_tiger_de_edit02.jpg 'This is a Tiger')
+-- --
+
+>   The __tiger__ *(Panthera tigris)* is the largest living cat species and a member of the genus Panthera. It is most recognisable for its dark vertical stripes on orange fur with a white underside. An apex predator, it primarily preys on ungulates, such as deer and wild boar. 
